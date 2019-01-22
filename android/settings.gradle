@@ -1,0 +1,3 @@
+rootProject.name = 'RNPaymentsTest'
+
+include ':app'
